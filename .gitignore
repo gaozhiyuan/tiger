@@ -1,0 +1,11 @@
+/target/
+/.settings/
+
+# Java class files
+*.class
+*.jar
+
+# Eclipse project files
+.classpath
+.project
+.DS_Store
